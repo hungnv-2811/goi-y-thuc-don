@@ -16,7 +16,7 @@ và lập danh sách đi chợ. Học máy chọn món (M1 PhoBERT, M2 gợi ý 
 | `tests/` | Kiểm thử đơn vị (17 ca) |
 | `data/` | Bảng dinh dưỡng Viện Dinh dưỡng (853 thực phẩm), bổ sung USDA, danh mục 100 món, 15 công thức, 40 câu gán nhãn |
 | `docs/so-do/` | Sơ đồ phân tích thiết kế (PNG, SVG) |
-| `*.docx` | Đề cương, báo cáo tiến độ tuần 1, phiếu đăng ký – theo dõi tiến độ, tập sơ đồ |
+| `tai-lieu/` | Đề cương, báo cáo tiến độ tuần 1, phiếu đăng ký – theo dõi tiến độ, tập sơ đồ (Word) |
 
 ## Chạy
 
