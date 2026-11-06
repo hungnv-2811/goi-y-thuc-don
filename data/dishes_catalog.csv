@@ -1,0 +1,101 @@
+ma_mon,ten_mon,nhom,bua,chay,thuy_san,ma_vdd,nguon_dinh_duong
+M001,Phở bò chín,mon_nuoc,sang;trua,0,0,15065,vdd_mon_an
+M002,Phở bò tái,mon_nuoc,sang;trua,0,0,15066,vdd_mon_an
+M003,Phở gà,mon_nuoc,sang;trua,0,0,15067,vdd_mon_an
+M004,Bún bò Nam bộ,mon_nuoc,sang;trua,0,0,15033,vdd_mon_an
+M005,Bún chả,mon_nuoc,trua,0,0,15034,vdd_mon_an
+M006,Bún cua,mon_nuoc,sang;trua,0,1,15035,vdd_mon_an
+M007,Bún đậu,mon_nuoc,trua,0,1,15036,vdd_mon_an
+M008,Bún nem,mon_nuoc,trua,0,0,15038,vdd_mon_an
+M009,Bún ốc,mon_nuoc,sang;trua,0,1,15039,vdd_mon_an
+M010,Bánh cuốn,mon_sang,sang,0,0,15009,vdd_mon_an
+M011,Bánh cuốn nóng nhân thịt,mon_sang,sang,0,0,15010,vdd_mon_an
+M012,Bánh mỳ patê,mon_sang,sang,0,0,15024,vdd_mon_an
+M013,Bánh mì xíu mại,mon_sang,sang,0,0,15023,vdd_mon_an
+M014,Xôi xéo,mon_sang,sang,1,0,15073,vdd_mon_an
+M015,Xôi lạc,mon_sang,sang,1,0,15071,vdd_mon_an
+M016,Xôi gấc,mon_sang,sang,1,0,15070,vdd_mon_an
+M017,Xôi đỗ xanh,mon_sang,sang,1,0,15069,vdd_mon_an
+M018,Xôi ngô,mon_sang,sang,1,0,15072,vdd_mon_an
+M019,Xôi đỗ đen,mon_sang,sang,1,0,15078,vdd_mon_an
+M020,Cháo sườn,mon_sang,sang;toi,0,0,15043,vdd_mon_an
+M021,Cháo lòng,mon_sang,sang,0,0,15042,vdd_mon_an
+M022,Miến ngan,mon_nuoc,sang;trua,0,0,15059,vdd_mon_an
+M023,Miến lươn,mon_nuoc,sang;trua,0,1,15058,vdd_mon_an
+M024,Mỳ vằn thắn,mon_nuoc,sang;toi,0,0,15060,vdd_mon_an
+M025,Mỳ xào,mon_chinh,trua;toi,0,0,15061,vdd_mon_an
+M026,Cơm rang,mon_chinh,trua;toi,0,0,15056,vdd_mon_an
+M027,Nem rán,mon_man,trua;toi,0,0,15063,vdd_mon_an
+M028,Nem lụi,mon_man,trua;toi,0,0,15062,vdd_mon_an
+M029,Gà tần,mon_man,trua;toi,0,0,15057,vdd_mon_an
+M030,Thịt xiên nướng,mon_man,trua;toi,0,0,15068,vdd_mon_an
+M031,Nộm tai lợn,mon_rau,trua;toi,0,0,15064,vdd_mon_an
+M032,Bánh chưng,mon_sang,sang;trua,0,0,15006,vdd_mon_an
+M033,Bánh khoái,mon_sang,sang;trua,0,1,15019,vdd_mon_an
+M034,Bánh tôm,mon_phu,phu,0,1,15031,vdd_mon_an
+M035,Bánh bèo,mon_sang,sang,0,1,15002,vdd_mon_an
+M036,Bánh bột lọc,mon_sang,sang;phu,0,1,15003,vdd_mon_an
+M037,Chè đỗ đen,trang_mieng,phu,1,0,15048,vdd_mon_an
+M038,Chè đỗ xanh,trang_mieng,phu,1,0,15050,vdd_mon_an
+M039,Chè đỗ đỏ,trang_mieng,phu,1,0,15049,vdd_mon_an
+M040,Chè hạt sen,trang_mieng,phu,1,0,15051,vdd_mon_an
+M041,Caramen,trang_mieng,phu,0,0,15040,vdd_mon_an
+M042,Cơm trắng,tinh_bot,trua;toi,1,0,,cong_thuc
+M043,Ức gà áp chảo,mon_man,trua;toi,0,0,,cong_thuc
+M044,Rau muống luộc,mon_rau,trua;toi,1,0,,cong_thuc
+M045,Cá rô phi kho,mon_man,trua;toi,0,1,,cong_thuc
+M046,Canh cải xanh nấu thịt,canh,trua;toi,0,0,,cong_thuc
+M047,Đậu phụ sốt cà chua,mon_man,trua;toi,0,0,,cong_thuc
+M048,Trứng rán,mon_man,sang;trua;toi,0,0,,cong_thuc
+M049,Bò xào cải xanh,mon_man,trua;toi,0,0,,cong_thuc
+M050,Tôm rang,mon_man,trua;toi,0,1,,cong_thuc
+M051,Khoai lang luộc,tinh_bot,sang;phu,1,0,,cong_thuc
+M052,Sữa chua chuối,trang_mieng,phu,1,0,,cong_thuc
+M053,Bánh mỳ trứng ốp la,mon_sang,sang,0,0,,cong_thuc
+M054,Canh bí đao nấu tôm,canh,trua;toi,0,1,,cong_thuc
+M055,Thịt lợn luộc,mon_man,trua;toi,0,0,,cong_thuc
+M056,Nộm dưa chuột cà rốt,mon_rau,trua;toi,0,0,,cong_thuc
+M057,Rau muống xào tỏi,mon_rau,trua;toi,1,0,,cong_thuc
+M058,Cải xanh luộc,mon_rau,trua;toi,1,0,,cong_thuc
+M059,Bắp cải luộc,mon_rau,trua;toi,1,0,,cong_thuc
+M060,Bắp cải xào,mon_rau,trua;toi,1,0,,cong_thuc
+M061,Đậu đũa xào tỏi,mon_rau,trua;toi,1,0,,cong_thuc
+M062,Giá đỗ xào,mon_rau,trua;toi,1,0,,cong_thuc
+M063,Mướp đắng xào trứng,mon_rau,trua;toi,0,0,,cong_thuc
+M064,Nấm xào,mon_rau,trua;toi,1,0,,cong_thuc
+M065,Rau ngót luộc,mon_rau,trua;toi,1,0,,cong_thuc
+M066,Canh rau ngót thịt băm,canh,trua;toi,0,0,,cong_thuc
+M067,Canh mướp nấu tôm,canh,trua;toi,0,1,,cong_thuc
+M068,Canh cà chua trứng,canh,trua;toi,0,0,,cong_thuc
+M069,Canh bắp cải thịt băm,canh,trua;toi,0,0,,cong_thuc
+M070,Canh đậu phụ hành,canh,trua;toi,0,0,,cong_thuc
+M071,Canh khoai tây cà rốt sườn,canh,trua;toi,0,0,,cong_thuc
+M072,Canh chua cá,canh,trua;toi,0,1,,cong_thuc
+M073,Canh bí đỏ,canh,trua;toi,1,0,,cong_thuc
+M074,Gà luộc,mon_man,trua;toi,0,0,,cong_thuc
+M075,Gà kho gừng,mon_man,trua;toi,0,0,,cong_thuc
+M076,Thịt kho trứng,mon_man,trua;toi,0,0,,cong_thuc
+M077,Sườn xào chua ngọt,mon_man,trua;toi,0,0,,cong_thuc
+M078,Thịt rang tôm,mon_man,trua;toi,0,1,,cong_thuc
+M079,Bò luộc,mon_man,trua;toi,0,0,,cong_thuc
+M080,Cá rô phi rán,mon_man,trua;toi,0,1,,cong_thuc
+M081,Cá thu sốt cà chua,mon_man,trua;toi,0,1,,cong_thuc
+M082,Tôm hấp,mon_man,trua;toi,0,1,,cong_thuc
+M083,Mực xào rau,mon_man,trua;toi,0,1,,cong_thuc
+M084,Trứng hấp,mon_man,sang;trua;toi,0,0,,cong_thuc
+M085,Trứng luộc,mon_man,sang;phu,0,0,,cong_thuc
+M086,Đậu phụ rán,mon_man,trua;toi,1,0,,cong_thuc
+M087,Đậu phụ nhồi thịt,mon_man,trua;toi,0,0,,cong_thuc
+M088,Đậu phụ sốt nấm (chay),mon_man,trua;toi,1,0,,cong_thuc
+M089,Ngô luộc,tinh_bot,sang;phu,1,0,,cong_thuc
+M090,Khoai tây luộc,tinh_bot,trua;toi,1,0,,cong_thuc
+M091,Bún tươi,tinh_bot,trua;toi,1,0,,cong_thuc
+M092,Bánh mỳ không,tinh_bot,sang,1,0,,cong_thuc
+M093,Chuối tiêu,trai_cay,phu,1,0,,cong_thuc
+M094,Cam,trai_cay,phu,1,0,,cong_thuc
+M095,Táo tây,trai_cay,phu,1,0,,cong_thuc
+M096,Dứa,trai_cay,phu,1,0,,cong_thuc
+M097,Sữa chua không đường,trang_mieng,phu,1,0,,cong_thuc
+M098,Sữa bò tươi,do_uong,sang;phu,1,0,,cong_thuc
+M099,Lạc luộc,mon_phu,phu,1,0,,cong_thuc
+M100,Đậu phụ sốt cà chua (chay),mon_man,trua;toi,1,0,,cong_thuc

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# Dữ liệu Food.com (gần 900 MB, tải lại từ Kaggle rồi chạy scripts/prepare_foodcom.py)
+data/foodcom/raw/
+data/foodcom/processed/
+
+# file khóa tạm của Word
+~$*.docx

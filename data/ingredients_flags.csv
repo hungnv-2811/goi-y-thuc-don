@@ -1,0 +1,20 @@
+﻿code,name_vi,category,energy_kcal,protein_g,fat_g,carb_g,co
+7140,Nước canh,Thịt và sản phẩm chế biến,,,,,THIEU_NANG_LUONG
+12079,Kem tươi,"Đồ ngọt (đường, bánh, mứt, kẹo)",1,2.4,35.5,3.1,NANG_LUONG_VO_LY
+13024,Sả,"Gia vị, nước chấm",1,0.8,1,16.5,NANG_LUONG_VO_LY
+13032,Nước sốt cà chua,"Gia vị, nước chấm",1,1.1,0.1,27.4,NANG_LUONG_VO_LY
+13056,Bột hạt điều đỏ,"Gia vị, nước chấm",1,11.5,2.23,42.2,NANG_LUONG_VO_LY
+13073,Nước ướp gà nướng,"Gia vị, nước chấm",1,0.82,0.63,40.8,NANG_LUONG_VO_LY
+14003,Cốc tain (cồn 13 g),Nước giải khát,155,,,15.74,LECH_ATWATER
+14013,"Rượu vang đỏ (cồn 9,5 g)",Nước giải khát,69,0.2,,2.02,LECH_ATWATER
+14014,"Rượu vang trắng (cồn 9,5 g)",Nước giải khát,66,0.1,,0.2,LECH_ATWATER
+14015,Rượu vang trắng ngọt (cồn 10.2 g),Nước giải khát,96,0.2,,5.9,LECH_ATWATER
+14068,Nước giải khát vitamin C,Nước giải khát,,,,,THIEU_NANG_LUONG
+15037,Bún dọc mùng,Thức ăn truyền thống,408,3,2.6,8.3,LECH_ATWATER
+15074,Muối vừng,Thức ăn truyền thống,1,18.11,32.65,13.77,NANG_LUONG_VO_LY
+3017011,Lạc rang dầu,"Hạt, quả giàu đạm, béo và sản phẩm chế biến",1,,44.5,18,NANG_LUONG_VO_LY
+8075002,"Ốc hương, luộc",Thủy sản và sản phẩm chế biến,94,22.4,2.7,2.4,LECH_ATWATER
+8075003,"Ốc hương, hấp",Thủy sản và sản phẩm chế biến,94,22.4,2.7,2.4,LECH_ATWATER
+8075014,"Ốc hương, nướng",Thủy sản và sản phẩm chế biến,94,22.4,2.7,2.4,LECH_ATWATER
+8076003,"Ốc len, hấp",Thủy sản và sản phẩm chế biến,94,22.4,2.7,2.4,LECH_ATWATER
+8076014,"Ốc len, nướng",Thủy sản và sản phẩm chế biến,94,22.4,2.7,2.4,LECH_ATWATER
